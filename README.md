@@ -4,6 +4,7 @@ Todos los ejercicios se han resuelto en el objeto Examen (\src\main\scala\job\Ex
 Ejecución de los tests:
 ![image](https://github.com/user-attachments/assets/973c6932-f559-4402-a7c8-ff86c1970cd4)
 
+## Resultados
 - Ejercicio 1:
   
 ![image](https://github.com/user-attachments/assets/7469826d-d62c-4d6e-9828-24dacc8dd939)
